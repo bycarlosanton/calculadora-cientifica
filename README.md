@@ -26,7 +26,7 @@ Calculadora web moderna con funcionalidades básicas y científicas avanzadas.
 
 
 
-\*\*Demo en Vivo:\*\* \[https://calculadora-cientifica-topaz.vercel.app](https://calculadora-cientifica-topaz.vercel.app)
+\*\*Demo en Vivo:\*\* \[https://calculadora-cientifica-topaz.vercel.app]
 
 
 
