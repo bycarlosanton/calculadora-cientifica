@@ -26,6 +26,10 @@ Calculadora web moderna con funcionalidades básicas y científicas avanzadas.
 
 
 
+\*\*Demo en Vivo:\*\* \[https://calculadora-cientifica-topaz.vercel.app](https://calculadora-cientifica-topaz.vercel.app)
+
+
+
 \## 🛠️ Tecnologías
 
 
@@ -38,11 +42,11 @@ HTML5 | CSS3 | JavaScript ES6+
 
 
 
-Carlos Alberto Antón Sevilla  
+Carlos Alberto Antón Sevilla
 
-Estudiante de Desarrollo de Software | CETI Colomos, Guadalajara  
+Estudiante de Desarrollo de Software | CETI Colomos, Guadalajara
 
-📧 carlos.antonsevilla@gmail.com  
+📧 carlos.antonsevilla@gmail.com
 
 🔗 \[GitHub](https://github.com/bycarlosanton)
 
