@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Calculadora Científica</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="calculator">
+      <div class="header">
+        <div class="mode-toggle">
+          <button class="mode-btn active" data-mode="basic">Básica</button>
+          <button class="mode-btn" data-mode="scientific">Científica</button>
+        </div>
+
+        <div class="header-right">
+          <span id="angleIndicator" class="angle-indicator">D</span>
+          <button id="angleMode" class="angle-mode">RAD</button>
+        </div>
+      </div>
+
+      <div class="display">
+        <div id="history" class="history"></div>
+        <div id="display" class="input"></div>
+        <div id="memoryIndicator" class="memory-indicator"></div>
+      </div>
+
+      <div id="buttonContainer" class="buttons"></div>
+
+      <div class="credits">
+        Hecha con <span>JavaScript</span>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
